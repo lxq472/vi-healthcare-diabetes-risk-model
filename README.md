@@ -71,7 +71,7 @@ The dashboard visualizes:
 - Probability vs Outcome
 - Feature comparison
 - Clinical insights
-
+Tableau Public link: https://public.tableau.com/app/profile/nikolaos.giannoulis/viz/HealthcareDiabetesRiskPredictionMachineLearningClinicalAnalytics/DiabetesRiskPredictionClinicalAnalyticsDashboard
 ---
 
 ## Business / Healthcare Insight
